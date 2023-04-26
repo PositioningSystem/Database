@@ -10,7 +10,7 @@
 
 - RabbitMQ-based environment:
     
-    <img width="400" alt="Database" src="https://user-images.githubusercontent.com/6643905/234702576-2290d69f-b71b-43ea-b64f-12ed85f20199.PNG">
+    <img width="450" alt="Database" src="https://user-images.githubusercontent.com/6643905/234702576-2290d69f-b71b-43ea-b64f-12ed85f20199.PNG">
 
 ## Requirements
 
